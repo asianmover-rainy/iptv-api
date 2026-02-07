@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-02-05 18:41:16,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150$订阅源
+2026-02-07 18:24:53,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150$订阅源
 CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150$订阅源
+CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&unique_id=stream-695106910011261612_684_flv&wsSecret=bbf37003c0e4945f50c24773724b6ae3&wsTime=69853d78$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV-6%20%E7%94%B5%E5%BD%B1$订阅源
@@ -70,7 +71,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9
 CCTV-17,https://iptv.catvod.com/live.php?id=cctv17$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
-CCTV-17,http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770510943&major_anchor_level=common&sign=dd29a839e4c1695baa854e62d1520175&t_id=037-20260201083542E2A9E7FA3B89F8A17BA8-arf6Qh&volcSecret=dd29a839e4c1695baa854e62d1520175&volcTime=1770510943$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86$订阅源
@@ -88,9 +88,9 @@ CCTV-17,http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/in
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86$订阅源
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86$订阅源
